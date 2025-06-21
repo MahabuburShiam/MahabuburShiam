@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on improving my **full-stack skills**
 - 🌱 I’m currently learning **System Design**, **Api Integration**, and **Database**
 - 💬 Ask me about **Python**, **PHP (Laravel)**, **JavaScript**, **Assembly**, and **C**
-- 📫 How to reach me: **[rahmanmahabuur771@gmail.com]**
+- 📫 How to reach me: **[rahmanmahabubur771@gmail.com]**
 - ⚡ Fun fact: I love solving algorithmic problems and debugging edge cases
 
 ---
