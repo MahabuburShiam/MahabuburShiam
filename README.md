@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/yoursamplebanner.png" alt="banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Mahabubur Rahman</h1>
 <h3 align="center">Aspiring Software Engineer | Problem Solver | CSE Graduate</h3>
