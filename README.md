@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://i.imgur.com/yoursamplebanner.png" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mahabubur Rahman</h1>
 <h3 align="center">Aspiring Software Engineer | Problem Solver | CSE Graduate</h3>
 
 - 🔭 I’m currently working on improving my **full-stack skills**
-- 🌱 I’m currently learning **System Design**, **Api Integration**, and **Database**
+- 🌱 I’m currently learning **System Design**, **Data Analysis**, and **Database**
 - 💬 Ask me about **Python**, **PHP (Laravel)**, **JavaScript**, **Assembly**, and **C**
-- 📫 How to reach me: **[rahmanmahabubur771@gmail.com]**
+- 📫 How to reach me: **rahmanmahabubur771@gmail.com**
 - ⚡ Fun fact: I love solving algorithmic problems and debugging edge cases
 
 ---
@@ -19,13 +23,6 @@
 
 ---
 
-### 📊 Language Usage (Pie Chart)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahabuburShiam&layout=pie&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🧰 Tools & Skills
 - 🕸️ Web Scraping with `BeautifulSoup`, `Selenium`
 - 🐘 Working with `MySQL`, `XAMPP`
@@ -36,9 +33,30 @@
 
 ---
 
+### 📊 Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahabuburShiam&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahabuburShiam&show_icons=true&theme=radical" alt="Mahabubur Shiam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahabuburShiam&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MahabuburShiam&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahabuburShiam&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+> “Strive for progress, not perfection.” 💡
+
 </p>
 
 ---
