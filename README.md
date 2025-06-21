@@ -59,4 +59,4 @@
 ---
 
 
-> “Strive for progress, not perfection.” 💡
+
