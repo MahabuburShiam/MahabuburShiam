@@ -35,9 +35,7 @@
 ---
 
 ### 📊 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahabuburShiam&layout=pie&theme=radical" alt="Top Languages Pie Chart" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahabuburShiam&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
